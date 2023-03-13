@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="017F1B1F-EEA8-4830-858B-291D6010A9C2">
+            <Title>tissotwomenofsport</Title>
+        </Document>
+        <Document ID="01BB9944-D4CC-4A9C-8ABD-E7BFEB3C623A">
+            <Text> </Text>
+        </Document>
+        <Document ID="0230E90E-7447-47BD-9281-0BDA0BCACC6B">
+            <Title>Short Story Format</Title>
+            <Text>SHORT STORY MANUSCRIPT FORMAT
+About This Template
+By default, when compiled (File &gt; Compile…), this project will generate a document in the standard manuscript format for short story submissions.
+How To Use This Template
+Inside the “Manuscript” folder, create a new text document for each scene. (Alternatively, you can just write the entire story in a single text document.)
+⁠Note: The “Manuscript” folder is what we refer to in the documentation as the “Draft folder”. It’s just been renamed “Manuscript” in this template.
+Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature.)
+Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder.
+You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do—you may wish to customise the sketch sheets or get rid of them entirely).
+To create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template &gt; Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way.
+Alternatively, you can just click “Add”, or hit Ctrl+N, with the Characters or Places folders selected.
+You can view character and setting sketches in the Inspector as follows:
+Select the “Bookmarks” pane in the Inspector.
+If necessary, click on “Document Bookmarks” at the top and switch to “Project Bookmarks”.
+Click on the dropdown arrow next to the “Characters” or “Places” folders in the Bookmarks list and choose the sheet you wish to view.
+A “Notes” folder has been provided for project-level notes. This has been set as the default Bookmarks folder in Project &gt; Project Settings…, so that when you create a new document from the Bookmarks sidebar in a Quick Reference panel, the document will be added to this folder.
+Compiling
+Tip: You can open this document in a Quick Reference window and have it open alongside the compile dialog if you need to refer to these instructions while compiling.
+
+Edit the “First Page Header” document inside the “Front Matter” folder to ensure that it contains the correct information (by default it will use the Author Information supplied in File &gt; Options…). The text in this document will appear at the top of the first page of the compiled story manuscript.
+Go to File &gt; Compile…
+Next to “Compile for”, select “Print”, “PDF” or one of the rich text file formats such as RTF, Word or OpenOffice.
+In the formats sidebar, under “Project Formats”, choose from either “Short Story (Times)” or “Short Story (Courier)”. (Note that this list changes depending on the file format you have chosen.).
+Ensure that the “Add front matter” button is ticked under the contents list on the right and that the “Front Matter” folder is selected in the pop-up button next to it. (This has already been set up for you.)
+Click on “Compile”.
+Making Changes
+There are various minor changes you can make to tweak this template so that it better suits your needs, as follows:
+Project and author name: The default book title and author name used in headers and elsewhere can be edited in the metadata pane of Compile (click the tag icon in the rightmost header bar of the Compile panel).
+Font: You can override the font used throughout a compiled document. At the top of the “Section Layouts” pane in the centre of the Compile panel, change the “Font” setting.Note that fonts are not included in ebooks, however—e-readers choose their own fonts (and you would need to pay a hefty fee for a licence to embed a font in an ebook). The “Font” setting is therefore not available for ebook formats.
+Making your own special folders: The “Characters” and “Places” folders are just regular folders that have been set up in a particular way; you can create other folders that work in a similar manner.
+To create a folder with a custom icon, add a new folder, place it where you want it, ensure it is selected, and then go to Documents &gt; Change Icon to choose a different icon.
+To create your own template sheets, create a new document inside the “Template Sheets” folder and set it up however you want (e.g. add text, change the title or icon, set default metadata and so on). Now this document will be available as the basis for creating new documents from the New From Template menu.
+To make it so that adding a new document to a specific folder always results in a document based on a certain template, select the folder and go to Documents &gt; Default Template for Subdocuments, then choose the template document you want to use.
+Sample Document
+See the “Sample Story MS” PDF file in the Research folder for an example of a document that has been created using this template.
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template to suit how you work.
+
+Like all templates in Scrivener, this project was originally created from the “Blank” template. We’ve simply added a few folders and set everything up in ways that should be useful to novel writers. Everything you can do with this project, you could equally do by creating a “Blank” project and setting it up yourself.
+
+You can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template…</Text>
+        </Document>
+        <Document ID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="116E6E17-9AA3-4767-AC41-772ABF48F51D">
+            <Title>wroe44a3</Title>
+        </Document>
+        <Document ID="15324F17-D4D0-475E-9DC3-D2D8C2F2236E">
+            <Title>Setting Sketch</Title>
+            <Text>Name of Setting
+Location
+Role in Story:
+Related Characters:
+Season:
+Unique Features:
+Description:
+Sights:
+Sounds:
+Smell:
+Notes:
+</Text>
+        </Document>
+        <Document ID="1CCE8090-9589-49DB-A430-AB4D712ACEE4">
+            <Title>Act Two-1</Title>
+            <Text>	“It’s time,” he said. 
+The change of the music, the fanfare.. He had heard this song a million times over, and instinctively he rose from the bench, advancing across the curtains to the stage.
+“The lights trully were too bright!” he thought... Something must be done about that. He heard his name being announced on the recording as he walked towards the stage. The audience could be heard, excitement. 
+Starting the act with a juggling routine is always a sure bet. Juggling doesnt need to be funny, it just needs a little bit of skill and everyone will be satistied. It has the wonderful quality of breaking the ice with the audience, it gets them ready for more complex acts. He took three plates, and launching them on the air one by one, he caught them with each juggling stick up in the air. Balancing on each hand and forehead. 
+Wows from the audience can be heard through the thick glaring atmosphere. He looked up and saw them in the distance, sitting down, in place, barely moving. 
+The act is not great. He isnt the best clown out there. He is not a great clown even. But he puts all his passion in it, and the audience appreciates it. It takes a lot for a person to willing entertain us. Despite what he feels like. Happy or sad, the clown always delivers.
+He comes to the stage with s strange guitar in hand. A greek bouzouki .. Strumming it madly with a large oversized guitar pick… halfway though the song, dropping the pick inside the instrument.. His face contorts.. Feeling stupid. Its allright.. Clumsiness is part of the act. 
+The music has changed. A slow piano plucks sad minor chords on the recording. 
+He continues.. This time bringing an immense chest onto the stage… dropping it on his foot has he lets it down. The music slows down. The piano playing yet sadder notes, like a music box.
+He opens the chest.. Only to find another chest inside.. And another, and yet another until the large chest is revealed to contain nothing more than a tiny red box, which when opened contains another brand new guitar pick with which to finalize his song. 
+The act moves on, however, the audience is rather silent. Not a lot of laughter tonight.
+The pies, the slip and falling.. Even the unicycle.. (describe them more)
+He runs off stage and comes back speeding on an unicicle. Making circles around the stage.. His hair waving in the wind.. The streams dangling.. It all waves as if tripping down a calm road by the sea side.. He extends his hands taking it all in, but the wheel trips on one of the bowlin pins that were conveniently left on stage from before and he falls rolling down to the floor.. He takes an extra second before raising up to listen to the audience.. Laughter.. 
+The cards are wrong, they fall to the ground. Laughter. He cant get the balls to juggle in place.. Laughter.. 
+What is wrong? This is not his act. Everything is going wrong. This is not funny. Laughter. The audience laughs on. As if the act doesnt matter. He stops. Its unthinkable to break character, but he is upset.. He removes his nose.. Laughter… the frown on his face deepens, and he is hurt. Laughter.
+He takes a few steps forward. The audience, still blurry and shaded by the bright spotlights laughs on unrelentlessly.
+- This is not funny! He yells. And it would be one time that his voice is heard. Laughter.. His voice drowned by the laughter of the audience.. 
+He feels a tear come up to his face, 
+As he steps closer to the edge of the stage, the light becomes less bright.. He can see the people.. Unmovable.. Laughing on still.. The faces, inmobile give an eerie sensation as he can still hear them laugh… he steps even further.. Something is terribly wrong. 
+The audience.. Men.. Women.. Children.. Grandmothers, grandfathers.. They are flat.. They are nothing but painted on wood. Crude portraits of laughing people.. Dummies, they are another set, turned this time, facing his own set. Men in their suits, hats baseball caps.. Women, children with colorful hats and perfectly white teeth.. All with a forced smile, some clapping… all painted on wooden canvas.. Its all a set. He screams, calling for his collegues, other performers, standing across the stage.. Calling For them to see what a cruel trick has been played on them.. How could have they been fooled like this, how much work has been invested in entertaining a fake audience.. He runs to them.. But he finds them static. Theyre also painted on. Caricatures.. The elphants look ridiculous.. As if a 10 year old child had painted them.. Paint still smeared across the floor, in dark grey tones.. Same as the elephants skin.
+The master of ceremonies, stands with his hands resting on his waist… bright colored jacket and pitch black greased hat.. Smeared.. Dead wooden canvas.. Leaning carelessly against the wall. The music and the laughter go on..
+He turns around once again.. The circus is so small.. The stage is so small… paint smeared all over the floor.. His hands, covered in the red and purple and brown and green paint… dried up stains and blotches… brush marks on his sleeves.
+He looks up. And bitterly smiles. Understanding once again…
+
+
+</Text>
+        </Document>
+        <Document ID="2CD08CBB-A9BD-4D60-AF5D-91C40B3E608E">
+            <Title>Revelry Events Circus extravaganza</Title>
+        </Document>
+        <Document ID="37179ACC-CBD2-4C6C-B77D-AEF8E1928FAA">
+            <Title>Act Two</Title>
+            <Synopsis>he starts acting, he plays all sorts of games, hears laughter.. but hes unsatisfied. tries harder and harder, until he tries so hard that he starts making mistakes, gaffes.. the laughter continues. he wonders why.. then realizes its a laugh track and the audience is painted on the wall, and his hands are covered in paint.</Synopsis>
+            <Text>Act Two.</Text>
+        </Document>
+        <Document ID="39498264-4C46-4723-AF8A-83163E9AE45C">
+            <Text>drhserth</Text>
+        </Document>
+        <Document ID="3CF8EBC4-8808-4C73-A17F-B8507769217C">
+            <Title>lou jacobs</Title>
+        </Document>
+        <Document ID="4735B7CA-F594-4F3F-944D-D0A9EFF83AAC"/>
+        <Document ID="4A61588C-66DD-4BD1-9BB4-6F2CEB4E58E4">
+            <Title>Act One</Title>
+            <Synopsis>We find out about the clown. He is sitting waiting for his turn. We find out about his past, about his girl that he loves, how he was betrayed by friends.</Synopsis>
+            <Text>Act One.</Text>
+        </Document>
+        <Document ID="5026380C-2ECD-41D2-949C-043D984053C7">
+            <Title>Clown2</Title>
+        </Document>
+        <Document ID="53F8B303-22D2-4BEB-B82E-125E73F0181F">
+            <Text>Opening Day. The show is always chaotic. It didnt matter how many times it had been performed, rehearsed, re-rehearsed. It didnt matter how many times they made the attempt to perform a perfect act. things never went according to plan. And it would be a shame if it did. He had learned to take joy in the little moments of confusion, the small unexpected things that happen when a show gets moving. The sparks as he used to call it. 
+His was a small act. In a prime time show of dozens of performers, he didn't really have all that much to add. Compared to the other artists, his craft required the least amount of skill. He wasn't part of the equestrian team, the acrobats, the elephant act…  his, was an understated single clown act. A little juggling, balancing a chair on his forehead.. And having it drop, getting it stuck on his chest for the laughter of course..  a pie here and there, you slip and fall, perhaps if his back doesnt hurt that day, a bit of unicycle.. A little magic…
+Clowning wasnt for everybody. Actually the circus wasnt for everybody. It takes a special someone to go out there every night and perform the same act, and find it fullfiling after a while. Not to mention his act was repeatedly to make a fool of himself. Other acts have a certain dignity to them. Clowning doesnt. Certainly not in the traditional meaning. The reward in it is in the laughter. The laughter is everything. A torrent of adrenaline, dopamine, oxytocin.. Its in the audience breaking down their shell and becoming children again.. A clown puts on a mask to entice the audience to remove theirs.. To laugh without reserves. While laughing, everybody is an equal. The dignified, and the humble. The wealthy and the day worker. They all look at the clown and break down. Their status fades for a few minutes, and all men, and women and children, are joined in one while their attention is focused on the clown act.</Text>
+        </Document>
+        <Document ID="57ECC98D-8199-4935-B5F1-D1F7A2D60646">
+            <Title>Front Matter</Title>
+        </Document>
+        <Document ID="5C03DE09-C285-48ED-827F-78E62B7D0F72">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="64CEE392-C9E4-451E-AB99-2FF6C788ABF3">
+            <Title>Character Sketch</Title>
+            <Text>Character Name
+Age • Location
+Role in Story:
+Goal:
+Physical Description:
+Personality:
+Occupation:
+Habits/Mannerisms:
+Background:
+Internal Conflicts:
+External Conflicts:
+Notes:</Text>
+        </Document>
+        <Document ID="6830B6AC-686B-4370-A979-2FD1D7288BDA">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="69822417-D015-4BDD-90BD-18AAA6198D15">
+            <Title>Notes</Title>
+        </Document>
+        <Document ID="7101A1C1-9366-413C-9FE7-617562E8EAD0">
+            <Title>Character Sketch: The Clown</Title>
+            <Text>The Clown
+
+Age: Unknown • Location: Unknown
+Role in Story: Protagonist
+Goal: We dont know. We assume he wants to perform for the public.
+Physical Description: A Middle age, slim lanky clown in whiteface clown costume
+Personality: pensive, taciturn, depressed, fake face when the act shows up
+Occupation: Clown
+Habits/Mannerisms: Quiet when sitting on the sidelines, exagerated when on stage
+Background: Unknown
+Internal Conflicts: No friends or family
+External Conflicts: No audience. The audience is made up.
+Notes:</Text>
+        </Document>
+        <Document ID="8868CFF0-790F-440F-9CA9-D0BFD8A35C2B">
+            <Title>Clown Types</Title>
+            <Text>From https://famousclowns.org/history-of-clowns/different-types-of-clowns/
+
+There are three basic types of clowns:
+#
+
+######
+
+
+
+
+
+#
+
+Whiteface Clown: Ringleader, smartest clown, oldest type. Perhaps scariest clown
+Types: Neat, Grotesque
+
+
+Auguste:
+#
+The auguste clown is the least intelligent. Earth tones, exagerated makeup.
+
+Character Clown:
+#</Text>
+        </Document>
+        <Document ID="95C45B4D-5CFD-4DF7-9D2E-766FCB95BF53">
+            <Title>Circus Tent</Title>
+        </Document>
+        <Document ID="9BDCCE2E-BC7B-4B88-963A-30C79AF620A5">
+            <Text>Almost time now. He sat down on a nearby bench backstage getting ready for his act. The music blared, deafeningly… the same tired, ubiquitous circus jingle. Most people have heard it one hundred times before, but the circus managers refused to play anything else. “It wouldn't be the circus without the circus music”, they used to repeat. The spot lights were very bright.., blinding. A yellow aura inundated the stage, and even backstage. The lights overhead seemed way too bright as well.It was like looking into the sun without protection. And too hot. Small beads of sweat forming on his forehead, which he comically patted away with his pocket handkerchief. 
+His face didnt look out of place. Some wrinkles around his eyes and forehead, a broad nose, .. Although most of his features had now been hidden away by the thick paste that was his makeup. An old school auguste clown. Sporting bright red hair and nose, and lips. Exagerated eyes and mouth. Earth tones and white and brown. He had carefully chosen his makeup, and avoided cat eyes or slits or any other extravagance that might make him scary to the kids.. He wouldnt want to scare the kids. He wasnt old. Merely 34 years of age, and had been at this life for 13 years already. It did feel like an eternity. And although he loved the life, he still wondered what else life might have brought, if it wasnt for this.</Text>
+        </Document>
+        <Document ID="B1C43F8C-9253-4B33-AE2F-432C4C07F4C3">
+            <Title>Sample Story MS</Title>
+            <Text>Your name            800 words
+Your address
+Your phone number
+Your e-mail address
+
+                               SHORT STORY MANUSCRIPT FORMAT
+                                               by W. Ritter
+
+         Short story manuscript format is very similar to novel
+standard manuscript format. This template is intended to help
+you easily export or print using the standard format. In fact,
+this PDF file was generated using Scrivener's Compile feature.
+It was created in Scrivener using the Short Story project
+template.
+
+         You should generally use a Courier 12-point font (which
+will print ten characters per inch). Because Courier is a
+monospace font (that is, all characters are the same width),
+it makes it easier for editors to detect spelling errors and
+also to calculate the approximate space your story will take
+up when published. Times New Roman and Arial are also usually
+acceptable though.
+
+
+                                                                      Ritter / Story Format / 2
+
+         Leave wide margins all around the page--at least an inch
+on all sides.
+
+         Use double-spacing between lines--this gives the editor
+plenty of room to make corrections and notes.
+
+         These guidelines will mean that you can't fit many words
+on a page--250 to 300 at the most. This will give your
+manuscript a higher page count, but it will pay off as it will
+be a lot easier for the editor to read--and you want to make
+the editor's job as easy as possible.
+
+                                                          #
+         Print only on one side of the page. Your name, address,
+telephone number and e-mail address should go in the upper
+left corner of the first page of your manuscript. In the upper
+right corner, place an approximate word count. You can round
+up to the nearest hundred words, although in these days of
+word processors, a word processor-generated word count will
+probably be fine. The word count is used by the editor to work
+out how much space your story will take up. In Scrivener, you
+can insert a placeholder tag that will be replaced by your
+word count upon compile by using the Edit &gt; Insert menu.
+         The title of your story should go roughly halfway down
+the first page (the editor can use the empty space above it to
+make notes). The title should be centred, and it is usually
+capitalised. Place your by-line two lines beneath the title.
+
+
+                                                                      Ritter / Story Format / 3
+
+This is the name you want to appear in print, which might be a
+pseudonym or might use your initials instead of your full
+name.
+
+         The first line of your story should start two lines
+beneath your by-line, and should be indented five spaces (half
+an inch) from the left margin.
+
+                                                          #
+         You should place a header in the upper right corner of
+every page of your manuscript except for the first page. The
+header should comprise the surname that appears in the by-
+line, a key word from the title of the story, and the current
+page number. (The header should not go in the left corner, as
+the editorial staff may clip your manuscript in that corner.)
+         Text should be left-justified with a &quot;ragged&quot; right
+margin. Some folk will tell you that you should always place
+two spaces between sentences, but in these days of word
+processors this rule is not so hard and fast any more. If you
+are in the habit of typing two spaces between sentences, fine;
+if not, it is probably not worth worrying about. Recent
+studies have shown that the number of spaces you type between
+sentences--one or two--has no discernible impact on how easy a
+piece of text is to read.
+
+                                                          #
+         If you wish a word or phrase to appear in italics, this
+
+
+                                                                      Ritter / Story Format / 4
+
+should be indicated in the manuscript by underlining. In
+Scrivener, you can use italics while writing and then just use
+&quot;Convert italics to underlines&quot; in the Transformations pane of
+the Compile sheet.
+
+         Em-dashes--extended hyphens that set off a phrase such as
+this--should be indicated using two hyphens. In Scrivener, you
+can use &quot;Convert em-dashes to double hyphens&quot; upon compile.
+(All of this is set up for you in the Short Story project
+template.)
+
+                                                          #
+         Line breaks in your story should be indicated by placing
+the &quot;#&quot; character between lines rather than leaving a blank
+line. This makes it easy for the typesetter to see where line
+breaks should fall. If you write each scene as a separate text
+document, you can have these separator characters added
+automatically upon compilation by using the &quot;Separators&quot; pane
+of the Compile sheet.
+         Finally, you do not need to make any overt indication
+that your story is over--you do not need to type &quot;The End&quot; or
+anything of the sort. The ending should be obvious from your
+story. Follow these instructions, and your short story
+manuscript should at least appear professional--the content is
+down to you!
+
+                                                          #
+
+
+                                                                      Ritter / Story Format / 5
+
+         Much of the information contained in this document is
+based on a description of short story manuscript format by
+Matt Carless for the BBC Writers' Room website: http://
+www.bbc.co.uk/writersroom
+</Text>
+        </Document>
+        <Document ID="B6BD308E-D71D-4359-BA44-0E07BD589038">
+            <Title>Manuscrito</Title>
+        </Document>
+        <Document ID="BAE6F014-DB20-4732-BC74-D673747CDEE6"/>
+        <Document ID="C3169962-00F4-4531-84A1-D9AA7D53FDF5">
+            <Title>Setting Sketch</Title>
+            <Text>The Circus
+Location: Unknown
+Role in Story: only known place
+Related Characters: The Clown.
+Season: unknown
+Unique Features: we dont know if theres an actual circus. For all we know it might be a living room, or an attic. We just see the lights, the stage, and the blur of the audience.
+Description:
+Sights: blurry.
+Sounds: circus music.
+Smell: musty. Dark.
+Notes:
+</Text>
+        </Document>
+        <Document ID="C80E6818-2C86-43A8-912E-09749E38B204">
+            <Text>When he was a child, he was anything but a clown. An average build shy young man, he always dreamed of being something else he wasnt. He always pictured himself a smart man, an academic, an intellectual. A learned man. He imagined himself a highschool teacher or something similar. What kind of kid imagines himself a high school teacher?.. 
+He admired and gravitated towards those who knew things. His history teacher for instance, Mr George.... a lanky, balding man who shaved his head and wore pleated trousers and cardigans.. But in the afternoon periods, after lunch, when the class seems to become a little quieter, he listened closely as Mr George narrated stories of the Athenian senate, the roman Curia.. The Egyptians.. It was all so beautiful, so interesting, he imagined himself walking among the ancients.. Perhaps attending a lecture or a speech at the roman forum.. History, language.. It always had been his fascination. he had always wanted to learn more, to be more. 
+But it was not to be. He was not good in school, despite everyones expectations. he didnt even finish high school. He had focused on other things, urgent things rather than important things, and when time came to do something, he just moved on. But now, he had found his calling. He found what made him sleep, and smile at night. 
+Nightime.. When he went to bed every night, it was with the satisfaction of those who know that theyre achieving something important. Something transcendental, even though the rest of the people might not understand, he understood. “You will die, when everyone who ever knew you forgets you”. He was doing his best to remain alive as long as possible. This stage of his life, was important.  It was his calling, after all.</Text>
+        </Document>
+        <Document ID="D075ECAF-175C-4DDB-A009-C996DB03AE30">
+            <Title>eclecticlightdotcom.files.wordpress.com</Title>
+        </Document>
+        <Document ID="DE0C8638-E8C6-44E1-AEC3-DD376209DE19">
+            <Title>Three</Title>
+        </Document>
+        <Document ID="E614C502-7BCA-490E-8574-61F85797C954">
+            <Title>First Page Header</Title>
+            <Text>
+Ricardo Cespedes
+2022.  Miami, FL
+
+
+
+Phone: 786 277 9453
+Email: rcespedes@proton.me
+&lt;$wc100&gt; words
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+
+by &lt;$fullname&gt;
+</Text>
+            <Notes>The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with metadata information you can set when compiling. Other information is taken from the Author Information settings in File &gt; Options… when the project is created.
+
+The &lt;$wc100&gt; words tag will be replaced with the word count rounded to the nearest 100 during compile (this and other tags can be inserted from the Insert menu).
+
+Feel free to edit the text of the header document as required.</Notes>
+        </Document>
+        <Document ID="EEAD9B19-D4FB-4965-ACF2-B45344E2A0A9">
+            <Title>Links</Title>
+            <Text>Writing Links
+
+The 2-Act Structure
+https://www.thestorydepartment.com/2-act-structure/
+</Text>
+        </Document>
+        <Document ID="F713E38D-6379-4D89-9C5B-023A13B4B094">
+            <Text>drhserth</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>
